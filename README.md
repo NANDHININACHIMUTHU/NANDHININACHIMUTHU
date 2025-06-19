@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @NANDHININACHIMUTHU
-- 👀 I’m interested in JavaScipt and JAVA.Automation tool SELENIUM and JIRA
+- 👋 Hi, I’m @NANDHININACHIMUTHU.
+- 👀 I’m interested in CSS,HTML and JavaScript. 
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on projects and Jobs.
 
