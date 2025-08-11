@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NANDHININACHIMUTHU.
-- 👀 I’m interested in CSS,HTML and JavaScript. 
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on projects and Jobs.
+Python Full Stack Developer with hands-on experience in building, testing, and deploying web applications using Python, Django, JavaScript, HTML, CSS, and MySQL.
+Adept at creating responsive UI, developing REST APIs, integrating databases, and automating testing processes.
+Seeking to leverage both academic and industry experience to deliver innovative, scalable solutions in a dynamic development environment.
 
 
 <!---
